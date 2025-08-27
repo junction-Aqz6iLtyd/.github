@@ -119,17 +119,17 @@ cd petutor
 2. **Backend Setup**
 ```bash
 cd backend
-npm install
+bun install
 cp .env.example .env
 # Configure your database credentials in .env
-npm run start:dev
+bun run start:dev
 ```
 
 3. **Frontend Setup**
 ```bash
 cd frontend
-npm install
-npm run build
+bun install
+bun run build
 ```
 
 4. **Chrome Extension Setup**
