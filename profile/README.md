@@ -6,9 +6,9 @@
 ![Track](https://img.shields.io/badge/Track-YBM-orange)
 
 <div align="center">
-  <img src="../slides/slide-1.png" width="45%" alt="슬라이드 1">
-  <img src="../slides/slide-2.png" width="45%" alt="슬라이드 2">
-  <img src="../slides/slide-3.png" width="45%" alt="슬라이드 3">
+  <img src="../slides/slide-1.png" width="33%" alt="슬라이드 1">
+  <img src="../slides/slide-2.png" width="33%" alt="슬라이드 2">
+  <img src="../slides/slide-3.png" width="33%" alt="슬라이드 3">
 </div>
 
 ## 📖 개요
