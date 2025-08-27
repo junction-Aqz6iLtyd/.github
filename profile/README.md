@@ -5,13 +5,13 @@
 ![Team](https://img.shields.io/badge/Team-UNDEF!NED-blue)
 ![Track](https://img.shields.io/badge/Track-YBM-orange)
 
-## 📖 Overview
+## 📖 개요
 
 **Petutor**는 크롬 확장 프로그램 형태의 학습 도우미 펫으로, 화면 위를 돌아다니며 사용자에게 학습을 재촉하고 퀴즈를 제공하는 혁신적인 교육 서비스입니다.
 
 98%의 교육 앱 이탈율이라는 현실적 문제에 주목하여, 사용자가 직접 앱을 실행하지 않아도 되는 새로운 방식의 학습 경험을 제공합니다.
 
-## 🎯 Problem Statement
+## 🎯 Problem
 
 - **98%** - 교육 앱의 평균 이탈율 (앱스토어 최고 수준)
 - 공부 계획은 세우지만 실제 실행에서의 어려움
@@ -39,7 +39,7 @@
 - 고교/대학/대학원 수준별 문제 제공
 - 사용자 하이라이트 단어 기반 개인화 학습
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 <div align="center">
 
@@ -64,31 +64,31 @@
 
 </div>
 
-## 📱 Features
+## 📱 기능
 
-### 🏠 Dashboard
+### 🏠 홈
 - 학습 목표 관리
 - 일정 확인 및 리마인더 설정
 - 학습 통계 및 진행 상황
 
-### 📚 Vocabulary Management
+### 📚 단어장
 - 단어장 생성 및 관리
 - 웹에서 하이라이트한 단어 자동 수집
 - 예문 자동 생성
 - 개인화된 단어 퀴즈
 
-### 🎯 Smart Quiz System
+### 🎯 퀴즈 시스템
 - **문장 퀴즈**: 영어 패턴 학습
 - **어휘 퀴즈**: 단어 의미 맞추기
 - **독해 퀴즈**: 웹 콘텐츠 기반 이해도 확인
 - 사용자 레벨별 맞춤 문제
 
-### 🛍 Pet Customization
+### 🛍 펫 커스타마이제이션
 - 다양한 펫 캐릭터 해금
 - 코인을 통한 아이템 구매
 - 개성있는 펫 꾸미기
 
-## 🏗 Architecture
+## 🏗 아키텍처
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -106,7 +106,7 @@
 ### Prerequisites
 - Node.js (v16+)
 - MySQL
-- Chrome Browser
+- Chromium 브라우저
 
 ### Installation
 
@@ -139,7 +139,7 @@ bun run build
 3. Click "Load unpacked" and select the built extension folder
 ```
 
-## 📊 API Documentation
+## 📊 API 레퍼런스
 
 **Base URL**: `https://junction-backend-production.up.railway.app`
 
@@ -164,7 +164,7 @@ bun run build
 
 [📖 Full API Documentation](./docs/api.md)
 
-## 🎨 Screenshots
+## 🎨 스크린샷
 
 ### 📱 Chrome Extension Interface
 <div align="center">
@@ -188,7 +188,7 @@ bun run build
 > - 🎯 **Quiz Overlay**: 웹 브라우징 중 자동으로 나타나는 학습 퀴즈
 > - 🐱 **Pet System**: 귀여운 캐릭터와 함께하는 게이미피케이션 경험
 
-## 🗺 Roadmap
+## 🗺 로드 맵
 
 ### Phase 1: MVP (Current)
 - ✅ 기본 펫 시스템
@@ -211,11 +211,10 @@ bun run build
 - 📋 프리미엄 구독 모델
 - 📋 다국어 지원
 
-## 🏆 Achievement
+## 🏆 업적
 
 - **Junction Asia 2025** - YBM Track 본선 진출
-- **Team UNDEF!NED** (Team #10)
-- 혁신적인 학습 경험 제공으로 주목받음
+- **Team UNDEF!NED** (Team #10) - 혁신적인 학습 경험 제공으로 주목받음
 
 ## 👥 Team UNDEF!NED
 
@@ -225,16 +224,6 @@ bun run build
 | Designer | 최효우 | UX/UI Design, 3D Character Design |
 | Frontend Lead | 홍준우 | Chrome Extension, Svelte UI |
 | Backend Lead | 이재헌 | NestJS API, Database Design |
-
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ---
 
