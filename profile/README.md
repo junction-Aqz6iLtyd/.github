@@ -11,9 +11,32 @@
   <img src="../slides/slide-3.png" width="33%" alt="슬라이드 3">
 </div>
 
+<div align="center">
+
+### Frontend
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/typeorm-%23FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+
+### Infrastructure & Tools
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
 ## 📖 개요
 
-**Petutor**는 크롬 확장 프로그램 형태의 학습 도우미 펫으로, 화면 위를 돌아다니며 사용자에게 학습을 재촉하고 퀴즈를 제공하는 혁신적인 교육 서비스입니다.
+**Petutor**는 크롬 확장 프로그램 형태의 학습 도우미 펫으로, 화면 위를 돌아다니며 사용자에게 학습을 재촉하고 퀴즈를 제공하는 교육 서비스입니다.
 
 98%의 교육 앱 이탈율이라는 현실적 문제에 주목하여, 사용자가 직접 앱을 실행하지 않아도 되는 새로운 방식의 학습 경험을 제공합니다.
 
@@ -44,31 +67,6 @@
 - YBM 데이터를 활용한 레벨별 맞춤 퀴즈
 - 고교/대학/대학원 수준별 문제 제공
 - 사용자 하이라이트 단어 기반 개인화 학습
-
-## 🛠 기술 스택
-
-<div align="center">
-
-### Frontend
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/typeorm-%23FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
-
-### Infrastructure & Tools
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![Chrome](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
 
 ## 📱 기능
 
