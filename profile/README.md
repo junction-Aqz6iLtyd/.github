@@ -168,10 +168,8 @@ npm run build
 
 | Dashboard | Quiz Interface | Pet Customization |
 |-----------|---------------|-------------------|
-| ![Dashboard](../screenshots/dashboard.png)
-| ![Vocabulary](../screenshots/vocabulary.png)
-| ![Quiz](../screenshots/quiz_overlay.png)
-| ![Pet](../screenshots/popup.png) |
+| ![Dashboard](../screenshots/dashboard.png) | ![Vocabulary](../screenshots/vocabulary.png)
+| ![Quiz](../screenshots/quiz_overlay.png) | ![Pet](../screenshots/popup.png) |
 
 ## 🗺 Roadmap
 
