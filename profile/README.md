@@ -236,12 +236,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-## 📞 Contact
-
-- **Email**: [contact@petutor.com](mailto:contact@petutor.com)
-- **Website**: [https://petutor.com](https://petutor.com)
-- **Demo**: [https://demo.petutor.com](https://demo.petutor.com)
-
 ---
 
 <div align="center">
