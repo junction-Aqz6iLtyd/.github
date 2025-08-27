@@ -166,10 +166,27 @@ npm run build
 
 ## 🎨 Screenshots
 
-| Dashboard | Quiz Interface | Pet Customization |
-|-----------|---------------|-------------------|
-| ![Dashboard](../screenshots/dashboard.png) | ![Vocabulary](../screenshots/vocabulary.png)
-| ![Quiz](../screenshots/quiz_overlay.png) | ![Pet](../screenshots/popup.png) |
+### 📱 Chrome Extension Interface
+<div align="center">
+  <img src="../screenshots/dashboard.png" width="45%" alt="대시보드 - 학습 목표 관리 및 통계 확인">
+  <img src="../screenshots/vocabulary.png" width="45%" alt="단어장 - 개인화된 단어 학습 관리">
+</div>
+
+### 🎯 Quiz System in Action
+<div align="center">
+  <img src="../screenshots/quiz_overlay.png" width="60%" alt="퀴즈 오버레이 - 웹 브라우징 중 나타나는 퀴즈">
+</div>
+
+### 🛍 Pet Customization
+<div align="center">
+  <img src="../screenshots/pet_customization.png" width="50%" alt="펫 커스터마이징 - 다양한 캐릭터와 아이템">
+</div>
+
+> **실제 동작 모습**: 
+> - 🏠 **Dashboard**: 학습 목표 설정, 진행률 확인, 코인 관리
+> - 📚 **Vocabulary**: 단어장 관리, 예문 확인, 개인화 학습
+> - 🎯 **Quiz Overlay**: 웹 브라우징 중 자동으로 나타나는 학습 퀴즈
+> - 🐱 **Pet System**: 귀여운 캐릭터와 함께하는 게이미피케이션 경험
 
 ## 🗺 Roadmap
 
@@ -197,6 +214,8 @@ npm run build
 ## 🏆 Achievement
 
 - **Junction Asia 2025** - YBM Track 본선 진출
+- **Team UNDEF!NED** (Team #10)
+- 혁신적인 학습 경험 제공으로 주목받음
 
 ## 👥 Team UNDEF!NED
 
@@ -206,6 +225,8 @@ npm run build
 | Designer | 최효우 | UX/UI Design, Pet Character |
 | Frontend Lead | 홍준우 | Chrome Extension, Svelte UI |
 | Backend Lead | 이재헌 | NestJS API, Database Design |
+
+
 
 ## 📄 License
 
