@@ -203,7 +203,7 @@ npm run build
 | Role | Name | Contribution |
 |------|------|-------------|
 | PM | 남지윤 | Project Management, Strategy |
-| Designer | 최효우 | UX/UI Design, Pet Character |
+| Designer | 최효우 | UX/UI Design, 3D Character Design |
 | Frontend Lead | 홍준우 | Chrome Extension, Svelte UI |
 | Backend Lead | 이재헌 | NestJS API, Database Design |
 
