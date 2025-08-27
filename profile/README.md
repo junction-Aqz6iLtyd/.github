@@ -185,7 +185,7 @@ bun run build
 
 ### 🛍 Pet Customization
 <div align="center">
-  <img src="../screenshots/pet_customization.png" width="50%" alt="펫 커스터마이징 - 다양한 캐릭터와 아이템">
+  <img src="../screenshots/pet_customization.png" width="60%" alt="펫 커스터마이징 - 다양한 캐릭터와 아이템">
 </div>
 
 > **실제 동작 모습**: 
